@@ -1,2 +1,0 @@
-# deeplyrooted
-Created with CodeSandbox
